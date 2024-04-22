@@ -4,4 +4,4 @@ En app med recept specielt framtagen för barn. Appen är för barn som vill lä
 
 För att göra det mer intressant och hålla alla inblandade intresserade så är även 2 spel med för att göra matlagningen rolig innan, under eller efter måltiderna.
 
-- VITE projekt -
+- VITE grupp projekt -
